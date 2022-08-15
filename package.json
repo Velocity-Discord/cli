@@ -1,0 +1,29 @@
+{
+    "name": "@velocity/cli",
+    "version": "0.0.1",
+    "description": "A simple command-line-interface for communication and interaction with Velocity.",
+    "main": "lib/velocity.js",
+    "bin": {
+        "velocity": "lib/velocity.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Velocity-Discord/cli.git"
+    },
+    "keywords": [
+        "velocity",
+        "velocity-discord",
+        "discord",
+        "cli",
+        "nodejs"
+    ],
+    "author": "TheCommieAxolotl",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Velocity-Discord/cli/issues"
+    },
+    "homepage": "https://github.com/Velocity-Discord/cli#readme",
+    "dependencies": {
+        "ws": "^8.8.1"
+    }
+}
