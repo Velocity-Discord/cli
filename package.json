@@ -1,5 +1,5 @@
 {
-    "name": "@velocity/cli",
+    "name": "@velocity-discord/cli",
     "version": "0.0.1",
     "description": "A simple command-line-interface for communication and interaction with Velocity.",
     "main": "lib/velocity.js",

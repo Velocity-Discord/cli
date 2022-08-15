@@ -1,6 +1,6 @@
 ## Notice!
 #### As of 15.08.2022, For the cli to function properly, you need to have an advanced version of Velocity installed.
-#### [here]() is a guide on how to install and build the **development** version Velocity.
+#### [here](https://github.com/Velocity-Discord/Velocity#3-compile) is a guide on how to install and build the **development** version Velocity.
 
 ---
 
@@ -11,7 +11,7 @@ A simple command-line-interface for communication and interaction with Velocity.
 
 # Installation
 ```bash
-$ npm install -g @velocity/cli
+$ npm install -g @velocity-discord/cli
 ```
 
 # Usage
@@ -29,7 +29,7 @@ $ velocity
 ```
 **OR**
 ```bash
-$ npx @velocity/cli
+$ npx @velocity-discord/cli
 ```
 
 ## Commands
